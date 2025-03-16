@@ -1,7 +1,7 @@
 ## 📡 Running the Receiver and Sender
 
 ### Start the Receiver and then the Sender
-Run the receiver using the following format:  
+Run the receiver and sender using the following format:  
 
 ```sh
 python3 receiver.py <IP> <Port> <packet_loss_probability> <max_packet_delay>
